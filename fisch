@@ -1,1 +1,380 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _wRQGXfiXduCi = a; end)); return(function(_,...)local a;local r;local o;local n;local j;local c;local e=24915;local f=0;local h={};while f<617 do f=f+1;while f<0x3ac and e%0xba6<0x5d3 do f=f+1 e=(e*934)%16647 local d=f+e if(e%0x3ba8)>=0x1dd4 then e=(e*0x3a8)%0x34a while f<0x3e4 and e%0x2290<0x1148 do f=f+1 e=(e*262)%29682 local a=f+e if(e%0x7e4)>0x3f2 then e=(e*0x205)%0xa3df local e=46271 if not h[e]then h[e]=0x1 c=string;end elseif e%2~=0 then e=(e*0x23e)%0x2bf7 local e=12595 if not h[e]then h[e]=0x1 end else e=(e-0x280)%0x46f1 f=f+1 local e=33781 if not h[e]then h[e]=0x1 o={};end end end elseif e%2~=0 then e=(e+0x267)%0xbb26 while f<0x99 and e%0x109a<0x84d do f=f+1 e=(e*240)%43072 local n=f+e if(e%0x1984)>0xcc2 then e=(e+0x58)%0xa653 local e=77603 if not h[e]then h[e]=0x1 a=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x36c)%0x2f67 local e=83153 if not h[e]then h[e]=0x1 end else e=(e-0x129)%0x96a3 f=f+1 local e=68609 if not h[e]then h[e]=0x1 a=(not a)and _ENV or a;end end end else e=(e+0x2fc)%0x595e f=f+1 while f<0x103 and e%0x9ce<0x4e7 do f=f+1 e=(e+1002)%24785 local d=f+e if(e%0x14b0)<=0xa58 then e=(e+0x213)%0x904d local e=15062 if not h[e]then h[e]=0x1 r=tonumber;end elseif e%2~=0 then e=(e-0x237)%0x86e1 local e=27293 if not h[e]then h[e]=0x1 j="\4\8\116\111\110\117\109\98\101\114\107\110\100\79\100\75\112\119\0\6\115\116\114\105\110\103\4\99\104\97\114\72\114\106\66\108\109\102\105\0\6\115\116\114\105\110\103\3\115\117\98\89\84\107\81\90\122\113\79\0\6\115\116\114\105\110\103\4\98\121\116\101\103\77\87\109\95\105\107\74\0\5\116\97\98\108\101\6\99\111\110\99\97\116\102\112\66\109\108\79\101\100\0\5\116\97\98\108\101\6\105\110\115\101\114\116\71\121\77\110\72\99\116\65\5";end else e=(e-0x33)%0x9a29 f=f+1 local e=20503 if not h[e]then h[e]=0x1 n=function(h)local e=0x01 local function f(f)e=e+f return h:sub(e-f,e-0x01)end while true do local h=f(0x01)if(h=="\5")then break end local e=c.byte(f(0x01))local e=f(e)if h=="\2"then e=o.kndOdKpw(e)elseif h=="\3"then e=e~="\0"elseif h=="\6"then a[e]=function(f,e)return _(8,nil,_,e,f)end elseif h=="\4"then e=a[e]elseif h=="\0"then e=a[e][f(c.byte(f(0x01)))];end local f=f(0x08)o[f]=e end end end end end end end e=(e*335)%8444 end n(j);local e={};for f=0x0,0xff do local h=o.HrjBlmfi(f);e[f]=h;e[h]=f;end local function d(f)return e[f];end local l=(function(_,n)local j,h=0x01,0x10 local f={{},{},{}}local a=-0x01 local e=0x01 local c=_ while true do f[0x03][o.YTkQZzqO(n,e,(function()e=j+e return e-0x01 end)())]=(function()a=a+0x01 return a end)()if a==(0x0f)then a=""h=0x000 break end end local a=#n while e<a+0x01 do f[0x02][h]=o.YTkQZzqO(n,e,(function()e=j+e return e-0x01 end)())h=h+0x01 if h%0x02==0x00 then h=0x00 o.GyMnHctA(f[0x01],(d((((f[0x03][f[0x02][0x00]]or 0x00)*0x10)+(f[0x03][f[0x02][0x01]]or 0x00)+c)%0x100)));c=_+c;end end return o.fpBmlOed(f[0x01])end);n(l(90,"9e,aIc}!RznLVQ0:nL"));n(l(101,"d KZR#:o9%.kp2>e%kZpRR>Fo%/k.kZeoooK >k Re2k:# 99pKpeK:RKk#:eKe99: ep#:1>9oeKRp%#z>o.9K::9lo}2..Zp2po2e 95Rp>>#9sKk:#oop 2K#p #.>p9pKX#%#p>k%%KZpZ:>>Ro:Z}.Z:Re>o9p>:2o 5t.>Z2o#ooF..:#R>oop >. # p9%Ze>%.>>% %ZKap.#>e %kKZ2 #%e#%.K>p:Rg>:.. Kpp#p!oR?2>p9oK;kkoR2>kRoK#%oZppZ9kee%kRR9kK:ZRk%#pDKo Z.kR#><>%.Zopo,Z%2oqKpp 93+:koZ>k%9v.>R2#R>.9%K#k>#;e?9R p%2#RpkopW.2RZk%qZnZ.pK#>&Z%o2Z22o 3>%.Zo2.#e #9KRpkk#2G#k#>:9Z92K k>R.>o9.  k>Z.2e:9ZopeZp%:ZKZ92#:oyo.9Zs2K:pe#%RRe>Ro9.kR9#^22oe Z.p#9e9%ae%keR#2Eo#sZ#oe:e.9%Zop:e>e.%kZ%2RoK>9.%Zekp#eN#9e#Ko9"));local e=(-1561+(function()local n,f=0,1;(function(h,e,f,a)e(f(f,a,e and e,h),e(a,e,f and e,h),f(f and f,h,e,e)and f(e and a,e and f,e,a),a(f,h,h,e and e))end)(function(a,h,c,e)if n>277 then return c end n=n+1 f=(f+118)%30912 if(f%1452)>726 then f=(f*971)%35442 return e else return h(h(c,a,h,a)and h(e,a,a,c and e),c(h,e and c,h,a),c(h,a,e,h),e(c,c and e,a,e and h))end return c(h(e,e,h,c),a(a,e,h,a),e(a,e,e,c),a(h,h and c,e,a))end,function(h,e,a,c)if n>354 then return h end n=n+1 f=(f+18)%11006 if(f%1436)>=718 then return h(h(e and e,a,e and a,h),c(e,a,e,e),h(e,c,e,e),h(e,a and e,h,c))else return e end return a end,function(e,a,h,c)if n>224 then return h end n=n+1 f=(f-295)%14637 if(f%1336)<668 then return e else return h(e(c,e and h,e,e),e(e,e,h,c),h(a and a,c,e and h,c and c),h(e,c,a and c,c))end return c(e(h,h,h and a,h),c(e,e and h,a and e,h and a),a(h,h,a,c),e(a,a,e,a and e))end,function(h,e,a,c)if n>239 then return e end n=n+1 f=(f+974)%33562 if(f%746)<=373 then f=(f-909)%21969 return e else return c(e(c,a,e,h),e(c,e,a,e),c(e,h,e,e),a(e,h,h,e))end return a(e(c,a,h,c)and h(a and e,c,h and c,a),c(h,e,e,h),a(h,a,e,h),h(e,a,e,a))end)return f;end)())local he=(getfenv)or(function()return _ENV end);local d=o.WiJTBvsE or o.UpBqELYn;local y=1;local n=3;local j=4;local a=2;local function ee(s,...)local t=l(e,"2_#jfc9Z<haG-iV1G_-a#1hf1a<c-j#<<ii#!1jV _jVhijT9iG-c1h-Vf<V-G_iGi1achV-#h9i_Gc<G9fa<<GiZhG9Vaa<VcjiiZ_f9#x9fj<fc91k_1<fVh#V9Gh-ciha11<--h=hGG1h#ZVa#Z9<_hc9h-f<<9G#ZZGf19a9Vjf(ic_#9-)ff_hGjjZxhV9#h1ifh_-V#i-W1i#GV1#ich_VcG<hfi<ai<hi##99-GjqZcG#1cafV#_Zij_3ZW5#f>91j_9VG;9:hVij<1--_#GV1-j_Vi#a<a_-chaifG<<-VhG{h9f-h#Vifc--__c<-V19cG1#a<V<9.cf1Gf_hcVhG1c<i-a#fG-1h#ZVG#<ci_acZG9fh<9GfZ<G9V#aZVf_#i9_j9_#9h9V1cfGh1VjGhj#i9aG-c-hh1Z<G-<19iGfaaf3h9V_1aZ0;9jij_-hi1ZZf-cjZ#GGh1fchGVtjfC<1j#91ij9_hVVfh)-i_-G11-caVV#GZ__icah-f-<hVZZGG<J-aaV<_fih_99<?<fcahjZZf-V99aji_G9##Z1Vffh+_<<V9cKG9_9Zai9iZf#aRIc9a_1av1aZZ-<jaa7hj_<c--_#99Ga<yvhaiZ#9-hUZjG1<jc<1#Z9faac9hf-g<c-#_aGf1_f,Vj#w<f_#ck<ff_ZVi<h_1-caG1#fi9f1GV_iZ_VjfhfiiG_9ZGVR#c9#a9cfh_1j<j-_1cG#1=_-V__VZ<_AfV<_j1Z--#9VaGV#hiiajh--&hfG1Gjh9c#a9ZaVchhZ-a<<-cm9i<fga_z99Gj9hVr<9j9cVa#Vhj1<jiZGah9-ahe_hGi<#9-aSZf<1hj99f#<9cGZcZhf1j<9-j1ZGc1#f9Vf#_Z1_jc5h99jVG#-h_19jGZhac9aaZ1chhi9_--<Yc9G1Zjc9_#99jaGcch#1j<f-_d#Gj1__iV#_19a__fVagfFZiG_h+1achGV#jiac--c#j<c1cVZcfG/_cZa#VG9_#ZiV_#-a#_cZG9ii<j9hG%UG<jhafC#ciaZ#Z#hhZ1#cZG-ZfVZ9_Gc1<<hVifaG#_c_fGciif#aZZfVcfaaG_jj1hh1Va91aZch_#1h9w9c1i_#jhG1Vcc-Z_i<V1#ciGj#_<-aGfcG9_hf6Vhfja-sa<#V9jcaG*jj#GZj1hG>99ah+jj<-1h9j<hj#hj1V9,G9_i_V<aVZf-G_c1VhcjGhlGZiiZjVj1GaN<9ii#ah1VZh-ZjVaj1a9V-<#<9jGi##<-1_caGa_1<cVGcfGh_ifGG<_fZhiV<fE-Z_-9f9ajM<Z#i3i%jcha119f-h#V<jjZcV--#Z<-1_-##a<_Vhci-j#9<#V-fafhi9_#ZZi-<#_GZ1i11c<CHeZ9i9VV_jcvZVf#Z1-bZ_a1i-adiiJV-1gif_cH9jaSi_h#-1_1-_1Vc-1>#V9j_1c-hQ91ihj<hi3#GZ#iaj1G9hif-9j_<11fch59hZ1-cihh_-h&<#VafGGJ_c-jf#Gj_ZJ1Zai<jia#fGi_jZhZ_C9-ih-Gf<hf1hcV_UhZ1-9Yaa#_<fVcjV-f#Z<jVifGG-19Z-i-f_aZ_cfiVcfaaia_RG9a-1jfVc9ii#j<h#191<Za-_#9<GiemijG11j-hG#V9GGGcihai-<--h#ZGG1h#VVa#ZcG_hc9<Zf<<9GaZZGf_j-h#-hJ1ccaG1V__1h##a1h_V<hVZf-G_9cVGcfaV_hZiVZia9caj+<9iG#1}_-V__VZF_xfiG_j1Z-i99VaGihhiia_---6h9Z1Gj<<-#a9<hfchh9V<<<-c#hGZ1ffVV9#jc_j9a9119f-h<c1f9_i_R<h91VjfGV#f<-VhVGc-Gf_hZVf#G1119jGVjfaZM19jiffaZi><4c9V-Vjjh<Z_-j#hh<191Z9#-B#c<af#-##<hcV9fhGiGj#DZ-V_f91<Z1Vffiaf_GZ<iijZjhGVB#9Z--__f1ZGfYZi-G91a-1#hViGf_-iEaf-1-jhhZ#G9hhVcahZ-G<h-91ZG<19#aVZ#f<jjZahTI9c-aZj{99<-V#ZhZWf9La9#-hcV1caGVGc_aZ1VffhaV_jZ<iifjG9E-Z_i9_Gc<a<fa<ZVhZhG9VGa<Vcj1iZ_f9j#Zh91nccGa9ZVifiGjUj<aV#f1G}#_ZVZ9iGfM-cjGjf1Vf<VrCf<j-ij#hZi-_af9eGf<h9jaZZGi9ha9!-h<ic#_-Zpf9j19jj<j#c9jhGcfh_i1af#K9ii#jZZ-GaV9aGV<jvia_ZZ<Lhf9<Zj<Z9a#9ZafV1h9ij#c-co#j9_cZ1iVfja<9jV_fjG_JV9G9-ijjcha11i##VachfJYci-##Z-1c#-##Z<#V9fiGaGZ_hZ1V1f<ai_#GafGa1C-ZfiZ_GahkG9<-VfojfGh1i9#-Zr-faZ<jGZ<i>9aaZ1chhi9_Z-< cjj1Zjf<9#99j-#cch#-9<f-_1#Gj1bcfV#_19cj#a_1G9x-c9G1jc<hijRh#1<c_-_#V<a<#V1fGGw_c-afGac##ZjVc_1G#qGe<Zpi_j9hGfG-V#ihahc1icV-j#<1fcj-f#_##<1VGc;GccGVjf<<G#j<ZV-f-GJa<#_Z_i9jG14cjGa#VZ-VVfF<j_V9j-,fZaV_uf9Z<hd_#aZiV#9VachGj_<Zij#Gh__ZVi1c ai1fZ<iGfija-<}j9<-i_#f1ZVf_ZViiZtai1-h1i-#f-VmGci1ijahh#-9h-_cGh<iV<a-Z#aGh1Z#GV<#cch_Zcfh9f9<jV_ZcG#s9-cfa<V1jc<hiia#V--:h9<1Gj<<<#a9<aNchh9iV<<-919GZ1fj-V9#fcU_cc#<bff<_V7ZjGY}i-j#G<-1_c9=h<_1#f1c;-G_hZVVjGa/1<ai<f1GfAGZ1ihjhZf-Vjjhao99Z-Gj_h#1Gc--_#1c--a#c<aV1hG_Vh#i9fiG1#<<Qi1f9fZ-i_OZcia_1ci<hfV<GijZiGa_Ga-Vh#a#afnZi-c91a-wihViG_--iJGjZ1-jh<f#G9<GacahZ-Gaa_jZji<ji1cZ9V_j1hah-#i9c-a#1ZfG#iVajVd#Vi#41ccJ_jVafj09i-_c1h-1G<V-G_GGi1GjjV-#hZ__Gch<hfa<Z-1ZhGZVja<Vc_jiZ_fZjP9fjakc9V__1<fVha#_G<_1;z#ai_cZiiG1GGZ.9Zi<1ffaGgiZZ-ijna91-9d<_jihfYfciZa%-hj1<c-a9_i<7a#jiZ1G#_aZGV/fc1)ZGicf,j1ais<9ii#<f1i9--G##hh*jcV-VjG#ahc1jc<GiZ#1jfiGf_G9fVf1jfaa1_f<_iVfja<;VZ9iZj-a_cf--jihahGnj9f-h#VVZ9_-a#Z#<h-1_c9GG9iV9ccGfA#<<1#f-aV_9Zci<coaa_cZhZ_1hjah1dffh<9GfZ<Gc_faZVfjfi9_ff_lcf#ZZjfZ#aZ9jarifh#i>1--_1Vf(1o#ih__1c-G9fV<Gi_hiR#9Z--j_h91GZf(c#Gh91fchGV991ZcG-9_-<a1cVZcrGE_cZa#<G_FaZci<ihcfa#eZ9-fjh<_j9_i<jihf/<9#-#1icZG-#9<G1fcfGh_1<cVVcjGZVffhaV_j<_iif#aZs-a_i9j-aRRc9a-1jfGh_j9j-h#ihj1Zc1-_#9af1Ic<Ga_1<fVifVVjj5ZiVcfZai__ZaiGceGcoaZ#ifj1hVOj9<1ijihZ119_-i#Gh<1c<a-J#f<-VVccG<##<#VZG_G__ZZGVjfcaGO1ZffGjVaj3<9Vi#jZh-K#ZG-GjQhc1G9<-f#h<Vj9-L_VhfV<f1-c_G<i<_1ffaa1_fGifjG9KGZ#V6jGhik1Zaa-jfhh119j9ciH#Vhj1<ai#V<<{cc9-<#V#_<hVaf1Gf9fVZf9GjaV_GZZi-f_mhZaV#ffa1_j9iiZjjjjh<1i9#-Z#-h_19hG-_#1<aV1cf1-<9V-cfG_1jZGVbf9aaa-_aZciaj1VGZViZ#9hiM1Z<is#1h9hZ8i95-c#aijch--#_<<19c_Gj#chUijfGG<_1<GVjfiaGah?VZji<jia#/Zc-_LjZa-w49c-a<_1h9h-a#-<GVV99G-#yZf1aca-#_9<_VfVccjaV_jZ<#faZ_Gc1i9f<G_,h9<-1i fZhh1V9j_Vh9Lf9Gi_##h#ifcV-c#1hji_faG-_fZ1V#cff<Gj__Z9iG<j_fZ<iijhh-_#OfZf-ij#hZj1-h#1hZ1ffZG1#-hj11cjGZGhca<#VZf-h_-V1--=1ijVV1#-Zf_VcG-nfi<GG1Z-Gh.ZaGV<flia_Z99RhfZZGj<Zc-19ZafVah9ifNN-c?#ca1fj_<w#j9n-fc#hE-f<_GV_<GXVi#1i1_ic_*VfGacZV-jZZ<-1_c9hGi<#9-a^Z9a1hj99a#<9chjcZhfic<9-j_jGc1#c{Vf#_9Z_jc_Zif#Z1aiZ_aV)1aNii#j^1<9ih1VjG<G#i9a-fc-hhVY<G-h19Ga1ZfhVh#Zc-_<ccah<Za-Va_aiG_<Z#JafZZ<jhZ9-a9<acefhZif#jbZf-Gf_cZai1aGRaZGi<ihf_a#JZ9-f<a<1-ZQ99ic#1hf1haaj#<GVVcVaZ#<<#11cm-#G9#jZ1Vffh1VZ1ihc9aZ_hcjV9j1f;aRYc9ai_jfhh1V9fi9#ih#1Za1#9h#1)cj-h_1<jijfGG<_<ZG1_VffZa-__Z9V<fDacQa91iVjhh10j9<-ij#hZ5#Gh-9#Gho1hca-*#f<aVVcZ_c_i<#VZcAG__ZZGVfa#aaC1ZfVcjVaf,<9ijjjZhiA_99-Gj3hc1aah-f#a<V1fc<Gi##<Z1Kc_GZ_G<:Vcfaa1_f<ciVffa<B1Z#iZj-a__-9Gi_jchi119f-hcVhc1<cV-##<<-1jc9GGj#<cVGf1Gc_hZVVjf<GV_#Z<i-f_a95GZ7ica-h1,f9h-1jjh<1i9jii#-h_19c--V#c<aV1aZ_V<aV<fG-__ZZG-GfjG+_pZjVhiGfcafuh9V#chi__ZZihjaj#h-1G9U-c<1ucch-Zj#h9<h1jc#GZ_-VjcGG1#f<fV<VOf-ah:VZjfGhVn<9-V9fIaf.n(_9<-a#1hfcGG1jc#hh_1#cZG-991f95GiG9#9Z1Vffh#?Z<iifha<_kZaiafhajgc9h9a-1jfhh1V9j-<<9i#1<Zf-_#9<GjZGa#V9119c<GV_<<a1_cG<a_fZ#Vff#acdhcii<jGaZ11919hi9j#hZ1-i_j#<-^hca--#_<c1GV1caG<_i<#j#G_#achVaffaaaaah4iZ#iZj-a_#9__j<aX(_99-GZV199Z-f-c#i<V1jc<j_<j1acZc#-L_G<4Vchu_<<9iVj_a<_a<jiZfhjiaZ399Gi&<c1GZ_-hjZa#hf/fci-##Zi1c9-f_19GVa9jhf#aZVV-cZfhG__#ZZi-h<KZZfVfi9jVh1Jf9hjchfmc9#9j-1#-h_19aG#1h<1j9jGi#<<-<fV-fiG#_Z1jf#a1_1_!Zciaj1iGOh9Vijc<1hx#9<--j_h9Rh9uVGGf<11cchiV#j<hVic9GZ#piVV9fGGgjcZaVbff-h9aZjihjia#EZZii_c91Z}499-ajChfNZcVVhG#<i1jcZi-#_<ZVGccGc_Vi-VffhaVjjZ<iVf#GhjhZ_iZjGa1.c9a-1cf_G1V9f-<#Vh#dic-ijjf<G1#cc-Z_1<fVhfVG<_<ZVV#fha-_#Z9iGcjac)G91ifjhhV{jZ<iij#h<1-9#-9#Gh>1c9GG1#c<hV1cjG<_ia#+ff-G#_9Z-VscZaaB1Zfihf_aj.h9ii#jZaV_G99-1j3h-1ac1-ffhaf1jc-Gi#9<Z1<c_i9#W<wVhfaGj_fZGiVfj-jliZZiZj-a_u99GV#jiha0c9fii#Vhj1<ci-i#Z<i1_c-GG#_<cVachGf_aZVVff<ai_#hZ#cf_aZYGZ_icf-h1mf9h-Vj9h<1i9#-Z#-aj1icG-f#ch_V1cfGhjVh<V<c_G#_GZ-Vif9-G#<ZciVj1a<NhZWijj<a-%#9---j_h91G9wiZj9<11achi##j<<Vic#GG_-<#V9c_Gy_9ZaVja_ah)VZjOVjiajDZ<-#ij9h-L49c-ajihf_1V<-j#h<i#<cZGi#_h_VGcf_#_aZ1VfZ1aV_fZ<1ihVaZ iZ_i9jGG_.c<a#Gjfha1V9f-<jGh#_iZ_-_#Z<G_<ccGG_1<aVhc#_v_<ZiV#91a-_#Z9i1hiacea91Sajhh1rj9<#Vj#h<1-9#-9#Gh(1cVhG1#c<h18cjG<_ia#1cf-G#_9ZGV{f1aa#_<-ihf_aj_i9ii#jZh-yV99--j{h<1a9_-ffhhf1jchGi#j<Z11c_G9_V<{V9faG__fZaiVfj-j%iZjiZj1a_d99G1Nh_ha/I9f-a#Vh91<Zi1j#Z<i1_cZGG#<<c{acaGf_aZVVff<Gi_#<hVcf_ahzGZhicjah1:f91-VjZh<1V9#-Z#-h_3ZcG-_#c<VV1ccGh_V1cV<fiG#_<Z-V_f9a-_9Zciaj1acgV9Vijj<*hZ_iVj_ajhZ1V94-c#au_9jGiG1#Z<<Vic#DcZiVVfGf-Gf_cZai1h<_<Zii1ihf}a#HZ9-_aahi-^_9h-a#1hfc1-Zj_<-<i1#cZG-j_<9VGcRic9jZ1VcfhaV_jZiiicfxcd-Zfi9j1am!c9a-19hhh119j-G#ihf1Z9#j1#9<-1z9fGa#!<fVhfVGZZcZiV#fZGG__ZZiG9F*_%aZ;ifjhhVQ99<Via9hZ1i9_-Z#Gh_1cca-##f<aVVccG<_1<#qZ99G__ZZGV_fcG8s1<9V<jVa9Y<91i#jZh-%_9Z-Gj_hc1ic1-9#hhf19c<GV##hcV-c#G9_-<SVhaZa1_fZhV-fjahOiZ9jfj-a_W9Zainj9ha11V<-h#Vhj1<ci-##Z<-9jc9GG#v<9Vaf1Gf_a<iVjf<ai_jZGi-f_a9Z1i_f<acaDsa9h-Vjj1iZj-ZjcaH0f1Z9h-?#c<ajcGi#Z<#-hc_G1#c<GG1fha1_ZZfZ9V5j1afshVjf_a<1V9ci#--j_h91G9,-c#aV<jfchGV#j<<Vic#GZ0--gVZf1Gk_cZaf#ac_-<#Zji<jia#vZ9-i_j9iGY_<a-a#1hfih_ZfZ)<fchjjZZcah99ajVVhci#_h-fD_fj1jjO<V##c1Gjc_<VV5<:Gi_aa1V-_iiV_G9GfVhj,pc--_#9-Vc<G9#-<SVZciGj#c_h<<V#fZa-c<iGf1<jqiZjiGj<aGvjZ_9hi_j#hZ1-i<#Zhi1V199fG1#f<hjfG-#a<#icf-GV#ZZGViV_fhaaK1Zfc>h1t-Z-9ViZjZh-H_i9#-hhKZ9ic1-f#h<V#jc<Gi##<Z19c_G9_G<QVcfaa1_ahjiVfja<__Z#i<j-a# 991#ijcha119<-h#1hj1-Ga-##Z<-_Gc9G-#n<cjif1Gf_hZVVjfaaif#a_i-f_a9__Zyiaja-1__9h-Vjjam1i9<-Z#-aa19c--8#9<aV1cfihjh<jVhfiGj_Z<9V_f-G9_NZ9ia99af a9Vijj<a_c19Z--j_Gi1G9_-cj-G-1fcGGVj#<<Vic#iZ9c<_VhfGG__c<ci1ff1h&VZ9i<f_a#?Z9-i_achGJ#9c-a#1h<1h9##N#<<i1#ZGG-##<9sGhhGc#_Z1VafhG__j<ajGf#G>%-Zji9jGaMech1-1jGhh+Z9j-a#ih<Zcc--<#9a11Sc9Ga_1<fViaGGj_<ZiR9fZai__h9jZf=a-daZcifjGhV#jG_-ijhhZHj9_-h#Ga#cjca-<#fhLVVcjG<_iGZVZcjG__1ZGV#fcGT#hZfVrjVG1N<9Vi#j<h-Ic-j-Gj:hc_9c1-c#hh#c3c<Gi##aGV-c#G9jGi-Vcc_a1_aZhV7fj-<fJZ#iVj-a<T9Z#i?ccaZ119G-hjchjKcciifji<-1ac9G1#3<cVaf1i__h<<Vjf<ai_#ZZi-cZa9_fZ}i1jah17f9hijjjh11i9#-Z#ih_1a9V-,#c<a_hcfGa_V<h9GfiGf_Z<-V_fZaG_#ZciVh-afnh9VVjj<hVe#9G#hj_h91G<a-c#G<1S9<9GV#c<<1hc#GZ_-hjfffGGj_c<ji1ffahMV<zi<j1a#mh9-i#j9ai#i9c-a#1hc1hcV-jf<Vh1#cZG-#_<91hck-ZZ<Z1VcfhGf_jZ<iif#Gf>-Z_i9jiaMx99aijh_hh1V9j-<#ihj1Zc-jj#9<G1Sc9Ga_1<fVhcEGj_<ZiVjfGa-__Z9fiacraZ9ZPi<jhhVrjG9#Vh11-1-9_-9#Ghh1ccaG1ffVcVVcfG<_i<#Vhf-iZ#GZGV_fcaVN1Zcihj1ajq--ai#jZh-Qc99--j/hhcZc1-f#hh91jchGi##V<V-c#G9_G<MVcfaa1h<Zhi1fja<liZ#iZj-Q#o99-i3jcha119f-hG#hj1hci-j#Z<-1_c9#i#+<cVacAGf_hZVVfhcai_#ZZi--ha90GZlicjah1Jf9hV<jjh<1i9j-Z#ih_199<-b#c<a1^cfGh_Vaj1ZfiG#_ZZ-V_c/aG_6<Giaj1af/a9Vijj<hi_a9Z--j_hZ1G9g-cj<a_1fc1GV#-<<VVc#GZ_-<cfjfGGs_c<ji1fcah_#ipi<jia#_Z9-i#j9ai#i9c-a#1a91hcV-jf<--1#cZG-#_<9VVcKic#jZ1VffhaV_j<-ii9#Gfg-Z_i9jGatoh9aV_j-hhl 9jih#ih#1Zc--a#9<G1ycZGa#v<fVhccGj_<ZiVjfZa-__Z9j-fFac.aZ4ifjhhVsj9i-ij#hZ1V9_-9#Gh3__caG1#f<-VVcjG<#1hGVZfiG_#9ZGVRfcaa_1ZfihjVacD<9Vi#fha-6_99-Gf#hc1ac1Vfjb<V1jc<Gi##hjV-9jG1_G<#Vcfia1_fZhiVZ<a<NiZ#ihj-aj;9<G_ijchG119f-hf#hj.a9h-##h<-Djc9GG#.acXff1G9_h<mVjcfai#f<ii-fca9_jZ0icjah1b<9hibjjh-1i9f-ZjVhh19cV-JjZ<aV1cfihj&<jVGfiGc_Z<<V_c<bh_xZaiaf-afgh9VijZVhi=c9Zi_j_h<1GZ#i##ahj1f9GGV#j<<Ui9VGZ#K<_VafGG-_c<-Vhffa1wVZVi<jia#XZZii_jahGI99c--#1Gf0GcV-<#<<V1#c<G-f_h-VGccGc_1Z1VGfh-Vc-Z<V#f#a-Q-Z1i9f_3BycZ_-1j9hh119j-h#ih#<Nc--_#9<11:ccGa_1VhVhcjGj_1ZiVjfZ--9iZ9V,fLa9{aZeifch1a!j9i-ijZhZMG9_V9Zfhq1aca-f#fhZVVch_<_i<hVZf-G__ZZGVffcaah<ZfihjVaZd<9ii#jZ#cb_99-Gjchc1ac1-fG#<V1jc<-j##<ZV-c_Da_G<DVcf-a1_fZhiVa<a<_#Z#iVj-a#D9<G#-jch1119c-hfjhj_<Gh-##-<-19c9Gi#+acjjf1Gh_h<jVjc9ai_<iZi-f<a9u-Z*i9jaajSf9h##jjh<1i9f-Z#-h_19a1-D#c<a1#cfGh_V<jZ_fiG#_Z<_V_f9aG_P-hiaj1afli9Vijj<hi9Z9Zi_j_hi1G9_-cfaVG1fcVGV#f<<D#c#iZZ<<_VGfGGc_c<ji19f1#+VZ<i<f#a#_c9-iZh9hGRZ9c-V#1hc1h9L-j#<_91#cZG-#9<9VGc}GcajZ1VffhGf_jZ<iif#U-W-Z9i9f#a)N99aV_9_hhJj9j-i#ih#1ZZ-_i#9h{1>caGaj#<fV1aVGj_VZiVcfZai__Z<iGf!#V,a91iffWhV6j9<-i<9hZ1-9_-Z#Gh&1cca-<#f<VVVccG<_1<#VZZcG__GZGV_fcaGR1ZffGjVajE<9Vi#jZh-6_9h-GjAhc1G9j-f#h<V9a-a_Vh#<<1cc_G9_GVjcfG-_V<hVifZG_oi;VGiiZj-a_V9#jc#_cc#G_ff<_iIZjG*1<a#i1j_i_.V9iO*ji<_#19--acVh-i_<i-a1VG-1hc_VG#<Z9_acZh<fh<9-hZ<Gc_GaZVf_#i9_jcGzcf#ajjfZ_G#9ja_iwh#-1+9-_11jf1W#i9__1c-GGfV<Gi_hVt#9Z--j-h91G9.-9j<<11fch8f<-19c_h<#u<V1fca<V_<ZVV9fjfcaiIVZji<aG_#9ai1i#jihG 39cjihfAv9cG1#1hf<V1ZcZG-#_1ica-##_ZVZ1VffhaV_jZ<iij#V9=iZii9jGaWfVi<fcajMf9jG9#ih1R<c--V-#jj<G1Bcc=Z<X19f-9VneZiV1fca17iZ1Vai-ffacya91fGhauZZZ9hi9j#hZ1-i<jchi1G9<-a#T<ZVVV1cZG<_i<#cGai#f<_Z-V<fcaaF1V_jVGW%9Z.-VfCaGh-,_99-Gfjhc1ac1-fjj<V1jc<Gi##<ZV-cZjf_G<;Vcc-a1_cZhiVfja-9aZ#iZj-GjL99-iLfZ-Z119f-hjZhj1<ciV#h_<-1_c9GG#H<hVa91-f_hZVVjf<ai_fZZ1-c#a9&GZIicjaa!/fZGV9jjha1i9h-Z#-h_19c--=#c<a1_cfGG_VajojfiG#_ZZ-V_c_aGjK<#iaj1af/h9Vi9j<GifG9Z--j_h91G99-c#aaj1fchGV#c<<VVc#-h_1<_V9fGGa_cZai19f-#EVZji<jia#+19-Vjf-hG?_9c-1#1hf1hcVi%#<<i1#chG-##<9V1caGc_aZ1Vffha1_jZ<f1f#aZ&-Z#i9jGag6cZh-1jfhh1V9i-<#Vh#1Zc--_#9<G_hccGG_1<cVhf1Gj_V1GV#fZa-_-Z9i-fyac7aZjj_jhhV=jZj-ijjhZIV<V-9#-ht1ZcaG1#fahfacjGh_i<jVZfiG__-iGV5fZaaH1ZfiajVafp<9i#9jZh-N_99-Gjvhc1a9<-f#a<V1cc<G1##<Z_cc_GZ_G<_VcfGa1_<i9iVfja<_GZ#i<j-a__B9Gi_jchG119f-hfW1_1<c1-##a<-1_c9GG#i<cVGf1G9_hZ1Vjf<_1_#ZZi-f#a9JGZxi9f#h17f9h-1fCh<1i9#_f<i%jchZGzi<a1-c#G-_a<-1ZVhc_G#_ZZ-f1G9(V<jZ9Vjj1af{hVcf#aa,<ZciZ#ihf1G1-9--c#a<1ji-Zjfh#1jc#ac_-<V1ZfGGiG__aZai1ff#.ZiVcffa_aj5G9-i_j9&V9ci_j9jra#1hcV-j9V199JGGk#<a1<cV-f1<<#V<c^aia1_GZ<iif#_fZ_VjjhajW_ZjiV-1jfhh1VZ?-<#ih#1Z---_#9<G1/ccGa_1<fVGfVGj_<ZVV#f<a-#j<-iGfDacOi91ifjhGV_f9<-ij#hZ1-99-9fGh_1ccaG1#f<h1=cji<jf<#VZf-G__9<#VUcZGc*1Z9ihj1ajw<9ii#9-h-4_99-ijmhZ1aZ1P<#h<V1jc<Gi#a<Zp-cZG9_G<gVcfaGc_fhh1#fja<5iZ#iZfYa_t99Vi&jcha;_9f-a#Vhj1aci-##Z<i1_c9GG#UGcVaf1Gf_a<#Vjf<ai9#VjjiGaa9Vih_9_ih#c#1VZ<Vjfa_1i9#-ZZhv89c-V#ch-1hcVG<Ga#c<jV<fi.c<cVGc<ahY-<:Z9Vnj1afwh-lf#aG3h9GiG--fGc9c9<6<9--#bGfchhVcjchHicZV1Z--_VZc#G%_cZa#1G/&a<Zi<faG;a#hih#Z9i9Z99--ZOa#1hf1hcV-j#<<iV#h9Gi#i<9VGc7}-ZGV<c<<1_i<cGGfcaG_jZMZ#i-jGa(ocG9j<a#1Vc1ic-hj-h#1Zc-K9<Z1Vch-j#_9jVicGGj_9<-V9c_Gcai_hZ9iGf^1<Z1iifZai.iZ_-i-iff_G#Zs_h9Z#B1jccGC##f<hVVjjZ}hV9#h1V1h_-Vjj-H1ijiV1#-<G_Vc-<<fi<ai-Z-Gh_iaGV<f#ia_ZfcShf9<<j<Zcij9Zaf1<h9ifbF-c+#cf1fj_hc#j9WGac#<1Gi<_GVV-GzVV##i1_-Z9&VfGh_ZV-jc_<-1_c9hGi<_--avZ9h1hjZ9G#<99h#cZhfVV<9-f1ZGc1#j<Vf#_c<_jcAa1f#Z1-_Z_a1iGarii#f-1!ifk1VjGZ-fVGi_ZZ-V_<G)-<jiVf<a91ZZiVZj1hihV6c9Z--j_Cf9%iZ-9#V<11fch#c<f1cc#cjGi_-<_V9<V19<ZiGf-ahaa_ZZji<ji19ZVi_j9afVf9V-Gjh#1!-_#9i-j<V#Vfc_ZG-a9jZZQZYV-1<#j#ffh<i#<jhi-#<c7aVG_i9hVZ,8V{Gc#j-1ajV9jhhi1<g_99Z1ahhfG1_9cGa_1<fj_-j#XZhVGc_Ge_L9jVcfaGf1c9GV_f<jhV9_hh<fVVijthj#_-91-ci1jhaZ<aj1f#Vcfih_i<#VZ#-9ha-cGhh-V<a-Z#ZGh1Z#9V<#c9Z_Zcc<af9<j-hZcGjV<afV_f_ij_L9fC#j1<cc_G9_G<BVcaaVahZGhiVTjVci-__fiZ_#i-99-iGjcha11Gvj<h_1f9fai#V<<Rcc9-<G-#j<cVaf1Ej<V1#Vffiai_#ZZf-Gj01ZhVficfZ1j-a#<_iZf#<ji9#-_1V9-hcf91aaVfa1 ciGh_V<j#GGc_j<hiiffGa_3<#ZcjG-i-#-<accVhaiiQjZj--j_h9f1iZ#a<11ifZGVjUhh1_ctGZG<#y<_V9fGEZZ9VjcjfcGZ!VZji<<:Ha9<iVj#hhb19ciZIGhj1<cV-#-f#V<i1#cZ11hjVGf--f_a_G<hVffhaVcaiic_hc7-ZVVZj1hVecK99V-1jfhhfji_jihahjdoc--_#9-Vc1-##a<GVhciGj_Z_<ccGccc#GcVG/91<SacPa91ifG_hVRj9<-ij-hZ1-9_-9#Ghx1ccaV<#f<hVVcfG<_V<#VZc9G__9ZGV_fcaaq1ZacZjVajd<Zji#j<h-+_99-1<ihc1ac1-a#h<11jc-_a##<ZV-cGG9_-<S1ZZZa1_fZh%#fja<;i<fjcj-a#T9ZGisjcha11Z_-h#Vhj1aci-j#Z<-9jc9GG#{<9Vaf1Gf#GaGVjf<ai#9ZZi-f_-99ZZWicjah1SfZ_-Vcj1f1i9#-Z#-h__<cGVC<_<a1&cfGh_VaaV<cj--_ZZiV_chaG__ZciGj1a<999Vijj<G? #9<--c_1#1G9_-c#a<1_1chiV9-<<VVc#G<_-aGV9fGGh_cZGi1f9ah_;Zj1<<9a#{<9-i#j9a9+XZZts#1hZ1hZa-j#<<i1#99G-##<9VVc6GZ_aZ11_fhG+_jZaiif#aZ5-<Zi9jVa7W99a-1jfG1_w9j-G#iai1Zci-_#h<G1fG#Ga_1<fQffVGf_<<_j1fZa-__hhiGf_ac_-h-ifj-hV_<9<-ij#GZj<9_-h#Ghj1c9iG1j9<1VVcZG<#-<#VZf--j_aZGVcfcGjl1ZfihcPGc/<Zji#cch-{_99-GjGhc1ic1-a#hhK1jc<iX##<hV-cfG9_G<{Vhf-a1_fZhjGfjahwiZ#V_j-afM99-iLjcha#cZh-hj_hj_1ci-j#Zhi1_ca_<#m<cVaZ9Gf_aZVVZacai_#ZZTGf_aZsG<#C#jaa#BfZV-Vjjh<_ihV-Z#1h_1hcGij#ch-1ccfGi_VGjV<fiG##h<jV_fGaGj9Zciaj1G9,-9Vihj<G<*#9Z--j_aG1G9j-cjW<119chGV#c<<V1c#Ga_-<_V9f1-9_cZai1a_ahv1Zji<fZa#(a9-i#j9hGdl<Gi1#1hZ1hh_-j#h<i1ZcZ->ZV<9VGc)V<_a<=VffidG_jZ<iiZiaZ3iZ_V<9<a5I<9aVfjfhh1V<j?f#ihc1Zc1-_jh<GK#c1Ga#j<fm9fVGj_<<1VhfZG___ZiiGf)ac_-<jifj1hV#j9<-ij#hZ5<9_-h#Gh91cc-G1#fh<VVccG<#5<#VZf-Gc_-ZGVnfcHZM1ZcihjVaiq<Zei#j<h-/_991_Gahc1ic1*a#h<11jc-Gi#9VfV-c_G99_<kV9fa-_f_ZhV_fjGibiZ#iZc-iim99Viuj<ha_#9fiGfjhj1-ciia#Z<-1_9<-j#=<aVaZZGf_hZV1cc9ai_<ZZ1cf_a9SGZmVZjaa#(f91-Vjch<1i9i-Z#Vh_1hcG-y#c<VC_cfGh_VV6V<fVG#_Z<9V_fhaG__Zciaj1-a_V9Vi9j<VZd#9<--j1h911Gi-c#a<1jVchG1#j<-fac#GZ_-ijV9f-Gw#ZaZi1fZah#jZji<ji-#fj9-ifj9hV0DZ<-af_hc1h9#-jfh<i1#cZ-Vjj<91:c4-1_aZ1VfcG-#_jZViif<aZd-Z_i9fVaS=<9aicjfhG1V9jih#ihf1Zc1-_#9<G1f9jGa_1<ff9fVGf_<ZiV-fZa1__ZZiGfSacj <fifj-hVch9<-Vj#G91-9c#j#Gh 1cG0G1#c<h1#GFG<_i<#fff-G#_9<ilifcaiD1<hihjVaj#<Gfi#jah-zf99iVjbaZrZc1-<#hac1jc<Gijfh-V-c9G9_i<sVcfa-_#9ZhVffj-iuiZ#iZj-af099ViWjGha;_9f-hjihj1aci-c#Z<-1_c-jh#K<ZVa-9Gf_aZVVjf<G_91ZZi-f__iYGZ_icf---Xf9--VfZh<1i9#VZfih_1hcG-j#cGZV199ic_V<<V<Z9G#_ZZ-V_chaG_jZci1j1a9Wh<Vi<j<aQX#9a--cih91GZ#-c#1<11cchGV#jha1Zc#Gi_-hZV9fGGXjc<ii1faah_fZjVGjiGf9c9-i<j9acK*9c-af_hZ1h99-jc9<i1#cZi-#j<91jczGi_ah_Vf9h-Z_j<KiifaaZ_<Z_V<j-a.4V9a1ijfhh1V<j-1#ihG1Z9c-_jj<G_^caGa#<<f1#fVi9_<Zi1ifZG#__Z1iGf#acSa-#iffChV(j9<-Vj#aZ#I9_-i#Gac1cc-G1#fhVVVc9G<#f<#Vhf-i_#cZGVffcai:1ZcihjVaGk<Z_i#jhh-g#99VGf9hc1Vc1-Z#hGi1jZ<-h##<GV-ccG9fc<nVcf-a1_<ZhVmfjahFiZ#fhj-a_S99-i0jcha119
+-- ฟังก์ชันเล่นเสียง
+local function playButtonClickSound()
+    local sound = Instance.new("Sound")
+    sound.SoundId = "rbxassetid://157878578" -- ID ของเสียง
+    sound.Parent = game.Players.LocalPlayer.Character or game.Workspace
+    sound:Play()
+end
+
+-- ตรวจสอบ PlaceId
+local mapIDs = {16732694052, 1586649844}
+
+if not table.find(mapIDs, game.PlaceId) then
+    game.Players.LocalPlayer:Kick("คุณโดนเตะออกจากเกม")
+    return
+end
+
+-- โหลด OrionLib
+local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Orion/main/source'))()
+local Window = OrionLib:MakeWindow({
+    Name = "PNP_HUB V6.PRO 🟢",
+    HidePremium = false,
+    SaveConfig = true,
+    ConfigFolder = "OrionTest"
+})
+
+-- แท็บหลัก
+local MainTab = Window:MakeTab({
+    Name = "หลัก",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Section = MainTab:AddSection({
+    Name = "เมนูฟาร์ม"
+})
+
+local function ShowNotification(message)
+    OrionLib:MakeNotification({
+        Name = "การแจ้งเตือน",
+        Content = message,
+        Image = "rbxassetid://4483345998",
+        Time = 5
+    })
+end
+
+local AutoFarmEnabled = false
+local CastEnabled = false
+local Rod
+local Progress = false
+local Finished = false
+local runCount = 0
+
+MainTab:AddButton({
+    Name = "Auto Farm กดแค่2ครั้ง",
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        runCount = runCount + 1
+        if runCount > 2 then
+            game.Players.LocalPlayer:Kick("มึงกดรันเกิน 2 รอบแล้ว ไอควาย!")
+            return
+        end
+        
+        AutoFarmEnabled = true
+        ShowNotification("กดปุ่มหย่อนเหยื่อต่อ!")
+
+        local Players = game:GetService('Players')
+        local LocalPlayer = Players.LocalPlayer
+        local GuiService = game:GetService('GuiService')
+        local VirtualInputManager = game:GetService('VirtualInputManager')
+        local ReplicatedStorage = game:GetService('ReplicatedStorage')
+
+        LocalPlayer.Character.ChildAdded:Connect(function(Child)
+            if Child:IsA('Tool') and Child.Name:lower():find('rod') then
+                Rod = Child
+            end
+        end)
+
+        LocalPlayer.Character.ChildRemoved:Connect(function(Child)
+            if Child == Rod then
+                Finished = false
+                Progress = false
+                GuiService.SelectedObject = nil
+                Rod = nil
+            end
+        end)
+
+        LocalPlayer.PlayerGui.DescendantAdded:Connect(function(Descendant)
+            if Descendant.Name == 'button' and Descendant.Parent.Name == 'safezone' then
+                task.wait(0.1)
+                GuiService.SelectedObject = Descendant
+                VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.Return, false, game)
+                VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.Return, false, game)
+            elseif Descendant.Name == 'playerbar' and Descendant.Parent.Name == 'bar' then
+                Finished = true
+                Descendant:GetPropertyChangedSignal('Position'):Wait()
+                ReplicatedStorage.events.reelfinished:FireServer(100, true)
+            end
+        end)
+
+        LocalPlayer.PlayerGui.DescendantRemoving:Connect(function(Descendant)
+            if Descendant.Name == 'reel' then
+                Finished = false
+                Progress = false
+            end
+        end)
+
+        coroutine.wrap(function()
+            while true do
+                if CastEnabled then
+                    local args = { [1] = 100, [2] = 1 }
+                    local character = LocalPlayer.Character
+                    if character then
+                        for _, obj in pairs(character:GetChildren()) do
+                            if obj:FindFirstChild("events") and obj.events:FindFirstChild("cast") then
+                                obj.events.cast:FireServer(unpack(args))
+                                break
+                            end
+                        end
+                    else
+                        warn("ไม่พบตัวละคร!")
+                    end
+                end
+                task.wait(1)
+            end
+        end)()
+    end    
+})
+
+MainTab:AddToggle({
+    Name = "หย่อนเหยื่อ",
+    Default = false,
+    Callback = function(v)
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        CastEnabled = v
+        if CastEnabled then
+            ShowNotification("เปิดใช้งานการหย่อนเหยื่อ")
+            coroutine.wrap(function()
+                while CastEnabled do
+                    local LocalPlayer = game:GetService("Players").LocalPlayer
+                    local backpack = LocalPlayer.Backpack
+                    local targetItem = nil
+                    
+                    for _, item in ipairs(backpack:GetChildren()) do
+                        if item:IsA("Tool") and item.Name:find("Rod") then
+                            targetItem = item
+                            break
+                        end
+                    end
+                    
+                    if targetItem then
+                        local args = { [1] = targetItem }
+                        LocalPlayer.PlayerGui.hud.safezone.backpack.events.equip:FireServer(unpack(args))
+                        targetItem.events.cast:FireServer(100, 1)
+                    else
+                        warn("ไม่พบอุปกรณ์ที่ตรงตามเงื่อนไข")
+                    end
+                    task.wait(1)
+                end
+            end)()
+            coroutine.wrap(function()
+                while CastEnabled do
+                    if not AutoFarmEnabled then
+                        ShowNotification("โปรดกดปุ่มเริ่มฟาร์มอัตโนมัติหลังจากหย่อนเหยื่อ") 
+                        task.wait(5)
+                    else
+                        break
+                    end
+                end
+            end)()
+        else
+            ShowNotification("ปิดใช้งานการหย่อนเหยื่อ")
+        end
+    end    
+})
+
+MainTab:AddToggle({
+    Name = "ขายปลาทั้งหมด",
+    Default = false,
+    Callback = function(v)
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        if v then
+            coroutine.wrap(function()
+                while v do
+                    workspace.world.npcs:FindFirstChild("Marc Merchant").merchant.sellall:InvokeServer()
+                    task.wait(1) 
+                end
+            end)()
+        else
+            ShowNotification("ขายปลาทั้งหมดถูกปิดใช้งาน")
+        end
+    end    
+})
+
+MainTab:AddButton({
+    Name = "ขายปลาหนึ่งตัว",
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        workspace.world.npcs:FindFirstChild("Marc Merchant").merchant.sell:InvokeServer()
+    end    
+})
+
+-- แท็บวาร์ป
+local WarpTab = Window:MakeTab({
+    Name = "วาร์ปไปเกาะ",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Section = WarpTab:AddSection({
+    Name = "เมนูวาร์ปไปเกาะ"
+})
+
+local DropdownOptions = {"Moosewood", "ที่เอ็นชาตเบ็ด", "Roslit", "Snowcap", "Sunstone", "ถ้ำใต้น้ำวน"}
+local SelectedOption
+
+WarpTab:AddDropdown({
+    Name = "เลือกตัวเลือก",
+    Flag = "DropdownOption",
+    Options = DropdownOptions,
+    Default = DropdownOptions[1],
+    Callback = function(Selected)
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        SelectedOption = Selected
+        print("คุณเลือก: " .. Selected)
+    end    
+})
+
+WarpTab:AddButton({
+    Name = "ยืนยันตัวเลือก",
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        if not SelectedOption then
+            print("กรุณาเลือกตัวเลือกก่อน!")
+            return
+        end
+
+        local player = game.Players.LocalPlayer
+        local humanoidRootPart = (player.Character or player.CharacterAdded:Wait()):WaitForChild("HumanoidRootPart")
+        local targetCFrame
+
+        if SelectedOption == "Moosewood" then
+            targetCFrame = CFrame.new(500.488434, 147.40181, 219.991364)
+        elseif SelectedOption == "ที่เอ็นชาตเบ็ด" then
+            targetCFrame = CFrame.new(1294.57568, -807.365051, -307.565216)
+        elseif SelectedOption == "Roslit" then
+            targetCFrame = CFrame.new(-1510.43311, 129.750626, 615.421875)
+        elseif SelectedOption == "Snowcap" then
+            targetCFrame = CFrame.new(2671.10767, 148.350555, 2388.95117)
+        elseif SelectedOption == "Sunstone" then
+            targetCFrame = CFrame.new(-902.682922, 136.266068, -1128.6886)
+        elseif SelectedOption == "ถ้ำใต้น้ำวน" then
+            targetCFrame = CFrame.new(-78.5218506, -482.720367, 1040.32788)
+        end
+
+        if targetCFrame then
+            local tween = game:GetService("TweenService"):Create(humanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), {CFrame = targetCFrame})
+            tween:Play()
+            tween.Completed:Wait()
+        end
+    end    
+})
+
+-- แท็บการตั้งค่า
+local SettingsTab = Window:MakeTab({
+    Name = "การตั้งค่า",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Section = SettingsTab:AddSection({
+    Name = "เมนูตั้งค่า"
+})
+
+SettingsTab:AddButton({
+    Name = "โหมดกลางวัน",
+    Default = false,
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        local lighting = game:GetService("Lighting")
+        lighting.ClockTime = 12
+        lighting.Changed:Connect(function()
+            lighting.ClockTime = 12
+        end)
+        ShowNotification("เปิดโหมดกลางวันแล้ว!")
+    end
+})
+
+SettingsTab:AddButton({
+    Name = "โหมดกลางคืน",
+    Default = false,
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        local lighting = game:GetService("Lighting")
+        lighting.ClockTime = 0
+        lighting.Changed:Connect(function()
+            lighting.ClockTime = 0
+        end)
+        ShowNotification("เปิดโหมดกลางคืนแล้ว!")
+    end
+})
+
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+
+local function rejoinServer()
+    local TeleportService = game:GetService("TeleportService")
+    TeleportService:Teleport(game.PlaceId, player)
+end
+
+SettingsTab:AddButton({
+    Name = "รีจอย",
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        rejoinServer()
+    end
+})
+
+SettingsTab:AddButton({
+    Name = "ออกจากเกม",
+    Callback = function()
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        game:Shutdown()
+    end
+})
+
+-- แท็บเปิดเพลง
+local MusicTab = Window:MakeTab({
+    Name = "เปิดเพลง",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Section = MusicTab:AddSection({
+    Name = "เมนูเปิดเพลง"
+})
+
+-- สร้างตัวแปรสำหรับเพลง
+local music = Instance.new("Sound")
+music.SoundId = "rbxassetid://1843404009" -- ใส่ ID ของเพลงที่ต้องการ
+music.Volume = 1
+music.Looped = true
+music.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+-- Toggle สำหรับเปิด/ปิดเพลง
+MusicTab:AddToggle({
+    Name = "เปิด/ปิดเพลง",
+    Default = false,
+    Callback = function(isPlaying)
+        -- เล่นเสียงเมื่อกดปุ่ม
+        playButtonClickSound()
+
+        if isPlaying then
+            music:Play()
+            ShowNotification("เปิดเพลงแล้ว!")
+        else
+            music:Stop()
+            ShowNotification("ปิดเพลงแล้ว!")
+        end
+    end
+})
